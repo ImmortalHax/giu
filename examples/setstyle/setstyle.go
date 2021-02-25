@@ -3,7 +3,7 @@ package main
 import (
 	"image/color"
 
-	"github.com/AllenDang/giu"
+	"github.com/ImmortalHax/giu"
 )
 
 func loop() {

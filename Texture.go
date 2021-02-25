@@ -2,11 +2,12 @@ package giu
 
 import (
 	"errors"
-	"github.com/faiface/mainthread"
 	"image"
 	"runtime"
 
-	"github.com/AllenDang/giu/imgui"
+	"github.com/faiface/mainthread"
+
+	"github.com/ImmortalHax/giu/imgui"
 )
 
 type Texture struct {

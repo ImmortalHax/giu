@@ -5,7 +5,7 @@ import (
 	"image"
 	"image/color"
 
-	g "github.com/AllenDang/giu"
+	g "github.com/ImmortalHax/giu"
 )
 
 type CircleButtonWidget struct {

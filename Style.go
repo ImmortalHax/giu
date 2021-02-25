@@ -3,7 +3,7 @@ package giu
 import (
 	"image/color"
 
-	"github.com/AllenDang/giu/imgui"
+	"github.com/ImmortalHax/giu/imgui"
 )
 
 func PushFont(font imgui.Font) {
