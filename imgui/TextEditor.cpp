@@ -12,6 +12,8 @@
 // TODO
 // - multiline comments vs single-line: latter is blocking start of a ML
 
+int isascii(int ch) { return ch >= 0 && ch < 128; }
+
 template <class InputIt1, class InputIt2, class BinaryPredicate>
 bool equals(InputIt1 first1, InputIt1 last1, InputIt2 first2, InputIt2 last2,
             BinaryPredicate p) {
